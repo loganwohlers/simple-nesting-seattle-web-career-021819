@@ -112,8 +112,7 @@ def changing_alan
      
      programmer_hash[:alan_kayl][:known_for]="GUI"
      
-     programmer_hash
-     
+  
      
 end
 
