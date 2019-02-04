@@ -16,7 +16,7 @@ def hopper
         }
      }
   
-  return programmer_hash[:grace_hopper][:languages]
+  return programmer_hash[:grace_hopper]
 
 end
 
